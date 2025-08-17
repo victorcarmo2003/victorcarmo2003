@@ -95,7 +95,8 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api>
+    <p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api">
 </p>
 
 <!--Contact Section--> 
