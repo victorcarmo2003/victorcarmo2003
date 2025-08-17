@@ -67,7 +67,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/victorcarmo2003/Roblox-Income">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcarmo2003&repo=your-latest-project&theme=nightowl&show_owner=true" alt="Latest Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcarmo2003&repo=Roblox-Income&theme=nightowl&show_owner=true" alt="Latest Project" />
         </a>
       </p>
     </td>
