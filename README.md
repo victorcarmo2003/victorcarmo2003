@@ -14,7 +14,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://your-portfolio-link.vercel.app/) for more details about me.
+- 💻 Visit my [Portfolio](https://hakor.vercel.app/) for more details about me.
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -101,21 +101,18 @@
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/victor-oliveira-">
+ <a href="https://www.linkedin.com/in/victor-oliveira-do-carmo-939100201/">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:youremail@example.com" target="_blank">
+<a href="mailto:victorcarmo2003@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/your-instagram" target="_blank">
+<a href="https://instagram.com/victor.carmo2003" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/your-twitter" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
-</a>
 </div>
 
 <!--Footer--> 
