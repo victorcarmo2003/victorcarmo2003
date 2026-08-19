@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="terminal banner" width="760"/>
+  <img src="./assets/banner.svg" alt="terminal banner" width="700"/>
 </div>
 
 <p align="center">
@@ -20,14 +20,8 @@
 
 ## ~/metrics
 
-Gerado por GitHub Actions e commitado direto neste repositório — sem depender de serviço externo, então não fica sujeito a "deployment paused".
-
 <p align="center">
   <img src="./metrics.svg" alt="GitHub metrics" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=victorcarmo2003&theme=nightowl&hide_border=true" alt="Streak Stats" />
 </p>
 
 ## ~/contributions
