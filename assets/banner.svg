@@ -1,0 +1,43 @@
+<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Cascadia Code',Consolas,monospace">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7fdbca"/>
+      <stop offset="50%" stop-color="#c792ea"/>
+      <stop offset="100%" stop-color="#ffeb95"/>
+    </linearGradient>
+    <clipPath id="line1clip"><rect x="0" y="0" width="0" height="20"><animate attributeName="width" from="0" to="330" dur="1.4s" begin="0.2s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="line2clip"><rect x="0" y="0" width="0" height="20"><animate attributeName="width" from="0" to="560" dur="1.8s" begin="1.8s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="line3clip"><rect x="0" y="0" width="0" height="20"><animate attributeName="width" from="0" to="240" dur="1.1s" begin="3.8s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="line4clip"><rect x="0" y="0" width="0" height="20"><animate attributeName="width" from="0" to="470" dur="1.6s" begin="5.1s" fill="freeze" calcMode="linear"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="218" rx="14" fill="#011627" stroke="url(#glow)" stroke-width="1.5"/>
+
+  <rect x="1" y="1" width="758" height="34" rx="14" fill="#0b2942"/>
+  <rect x="1" y="20" width="758" height="15" fill="#0b2942"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="18" r="6" fill="#27c93f"/>
+  <text x="380" y="23" text-anchor="middle" fill="#7fdbca" font-size="12" opacity="0.8">victor@github: ~</text>
+
+  <g font-size="17" fill="#d6deeb">
+    <text x="24" y="68"><tspan fill="#c792ea">victor@github</tspan><tspan fill="#7fdbca">:~$</tspan> <tspan clip-path="url(#line1clip)" fill="#d6deeb">whoami</tspan></text>
+
+    <text x="24" y="98" clip-path="url(#line2clip)">
+      <tspan fill="#7fdbca">victor_oliveira</tspan><tspan fill="#d6deeb"> — full stack dev &amp; cybersecurity enthusiast</tspan>
+    </text>
+
+    <text x="24" y="128"><tspan fill="#c792ea">victor@github</tspan><tspan fill="#7fdbca">:~$</tspan> <tspan clip-path="url(#line3clip)" fill="#d6deeb">cat stack.txt</tspan></text>
+
+    <text x="24" y="158" clip-path="url(#line4clip)" fill="#ffeb95">
+      python · lua · node.js · react · nextjs · security automation
+    </text>
+
+    <text x="24" y="188"><tspan fill="#c792ea">victor@github</tspan><tspan fill="#7fdbca">:~$</tspan>
+      <tspan fill="#d6deeb"> </tspan>
+      <rect x="70" y="176" width="9" height="16" fill="#7fdbca">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" begin="6.7s" repeatCount="indefinite"/>
+      </rect>
+    </text>
+  </g>
+</svg>
