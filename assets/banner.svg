@@ -35,7 +35,7 @@
   <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
   <circle cx="64" cy="18" r="6" fill="#27c93f"/>
-  <text x="350" y="23" text-anchor="middle" fill="#7fdbca" font-size="12" opacity="0.8">victor@pentest: ~</text>
+  <text x="350" y="23" text-anchor="middle" fill="#7fdbca" font-size="12" opacity="0.8">victor@github: ~</text>
 
   <g font-size="18">
     <text x="24" y="95"><tspan fill="#c792ea">victor@github</tspan><tspan fill="#7fdbca">:~$ </tspan></text>
@@ -47,17 +47,8 @@
 
   <rect y="78" width="9" height="24" fill="#7fdbca">
     <animate attributeName="x" dur="13.2s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0;0.1212;0.2197;0.3030;1" values="208;441;441;208;208"/>
-    <animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;0;1"/>
-  </rect>
-  <rect y="78" width="9" height="24" fill="#7fdbca">
-    <animate attributeName="x" dur="13.2s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0;0.3333;0.4545;0.5530;0.6364;1" values="208;208;430;430;208;208"/>
-    <animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;0;1"/>
-  </rect>
-  <rect y="78" width="9" height="24" fill="#7fdbca">
-    <animate attributeName="x" dur="13.2s" repeatCount="indefinite" calcMode="linear"
-      keyTimes="0;0.6667;0.7879;0.8864;0.9697;1" values="208;208;495;495;208;208"/>
+      keyTimes="0;0.1212;0.2197;0.3030;0.3333;0.4545;0.5530;0.6364;0.6667;0.7879;0.8864;0.9697;1"
+      values="208;441;441;208;208;430;430;208;208;495;495;208;208"/>
     <animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;0;1"/>
   </rect>
 </svg>
