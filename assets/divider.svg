@@ -1,0 +1,13 @@
+<svg width="700" height="4" viewBox="0 0 700 4" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7fdbca" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7fdbca" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7fdbca" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="1.5" width="700" height="1" fill="#2a3f5f" opacity="0.6"/>
+  <rect x="-140" y="0" width="140" height="4" fill="url(#sweep)">
+    <animate attributeName="x" values="-140;840" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
