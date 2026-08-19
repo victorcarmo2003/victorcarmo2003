@@ -3,8 +3,7 @@
 
   <br /><br />
 
-  <img src="./assets/status.svg" alt="status" height="24" />
-  <img src="https://komarev.com/ghpvc/?username=victorcarmo2003&label=profile%20views&color=7fdbca&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=victorcarmo2003&label=profile%20views&color=011627&style=for-the-badge" alt="profile views" />
 
   <h3>Full Stack Developer · Cybersecurity Enthusiast</h3>
   <p>Python · Lua · Node.js · React · Automação · Zabbix / Grafana</p>
@@ -14,7 +13,7 @@
 
   <img src="./assets/divider.svg" width="700" height="4" />
 
-  <br />
+  <br /><br /><br />
 
   <img width="420" src="https://skillicons.dev/icons?i=py,lua,js,html,css,tailwindcss,react,nodejs,nextjs,typescript,mysql,bash,powershell,git,docker,supabase,linux,vercel,selenium&perline=10" />
 
